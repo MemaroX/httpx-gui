@@ -1,0 +1,16 @@
+node_modules
+virtual_env
+venv
+build
+.env
+.DS_Store
+*.log
+
+# Backend
+backend/__pycache__
+backend/*.pyc
+backend/venv
+
+# Frontend
+frontend/build
+frontend/node_modules
